@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+<!DOCTYPE HTML>
+<META NAME="AUTHOR" CONTENT="JAROD KOSTICK">
+<meta charset="UTF-8">
+<meta name="keywords" content="JAROD KOSTICK, RESUME, PERSONAL WEBSITE">
+<meta name="description" content="Free Web tutorials">
+<TITLE>JAROD KOSTICK</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="30">
+<STYLE>
+
+Body {
+background-color: #8EC5FC;
+background-image: linear-gradient(315deg, #8EC5FC 22%, #eddefb 85%);
+}
+ul {
+  list-style-type: none;
+  margin: 2;
+  padding: 2;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  
+}
+
+li a.active {
+  background-color: #030256;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#Data">Data Science</a></li>
+  <li><a href="#contact">Geospatial Analysis</a></li>
+  <li><a href="#about">Sailor</a></li>
+</ul>
+
+</BODY>
+<script>
+
+</script>
+</HTML>
